@@ -1,5 +1,5 @@
 ﻿/*
-    Author: Michael Baker.
+    Author: Michael Baker
     Course: COMP003A
     Faculty: Jonathan Cruz
     Purpose: Input/Output Assignment
