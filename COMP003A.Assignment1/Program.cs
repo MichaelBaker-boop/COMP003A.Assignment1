@@ -10,10 +10,10 @@ namespace COMP003A.Assignment1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name: ");
-            string username = Console.ReadLine();
+            Console.WriteLine("Enter your name: "); // Prompts user for input //
+            string username = Console.ReadLine(); // Saves input as string/variable named username//
 
-            Console.WriteLine("Hello, " + username + "! My name is Michael Baker.");
+            Console.WriteLine("Hello, " + username + "! My name is Michael Baker."); //Returns message with user input and continues to execute code //
             Console.WriteLine("Here are 10 things about me:");
             Console.WriteLine("\t1. I drive a 1994 Miata that just had the clutch go out.");
             Console.WriteLine("\t2. I also drive a 2023 Kona that is much more reliable than my 30 year old car.");
